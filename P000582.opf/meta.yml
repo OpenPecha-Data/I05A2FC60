@@ -1,22 +1,24 @@
-id: opecha:P000582
+id: P000582
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1648
   title: དགོངས་གཅིག་ཡིག་ཆ
-  volume:
+  author: ''
+  volumes:
     a3eb774e902141a28aacc547fe71d82c:
       image_group_id: I00JW501142
       title: Volume 1 of dgongs gcig yig cha dgons gcig yig cha detailed presentations
         of'bri-gun 'jig-rten-mgon-po'i dgons gcig precepts of mahayana buddhist philosophy
       volume_number: 1
       total_pages: 560
+      base_file: v001.txt
     fe9bc956014f415890a02520fb945d4a:
       image_group_id: I00JW501143
       title: Volume 2 of dgongs gcig yig cha dgons gcig yig cha detailed presentations
         of'bri-gun 'jig-rten-mgon-po'i dgons gcig precepts of mahayana buddhist philosophy
       volume_number: 2
       total_pages: 670
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: དགོངས་གཅིག་ཡིག་ཆ
   author: ''
